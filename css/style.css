@@ -210,7 +210,7 @@ figure {
         display: inline;
         list-style: none; }
         #colorlib-aside .colorlib-footer ul li a {
-          color: rgba(255, 255, 255, 0.3);
+          color: black;
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
@@ -1188,7 +1188,7 @@ body.offcanvas {
 
 .btn-primary {
   background: #2c98f0;
-  color: #fff;
+  color: black;
   border: 2px solid #2c98f0; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     background: #44a4f2 !important;
@@ -1199,7 +1199,7 @@ body.offcanvas {
     border: 2px solid #2c98f0; }
     .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
       background: #2c98f0;
-      color: #fff; }
+      color: black; }
 
 .btn-success {
   background: #5cb85c;
