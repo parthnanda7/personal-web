@@ -1,4 +1,0 @@
-This is a personal portfolio Website
-
-using 
-HTMl,CSS,JS,jquery,Bootstrap
